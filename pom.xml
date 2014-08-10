@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.technologyhatchery</groupId>
     <artifactId>technologyhatchery-core</artifactId>
     <packaging>jar</packaging>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.2</version>
     <name>Technology Hatchery Core</name>
     <url>http://www.technologyhatchery.com</url>
 
@@ -20,7 +19,7 @@
         <!--connection>scm:svn:http://somerepository.com/svn_repo/trunk</connection-->
         <developerConnection>scm:git:https://github.com/Technology-Hatchery/core</developerConnection>
         <url>https://github.com/Technology-Hatchery/core</url>
-        <tag>initial_release</tag>
+        <tag>initial</tag>
     </scm>
 
     <distributionManagement>
