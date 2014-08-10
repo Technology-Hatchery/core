@@ -7,8 +7,6 @@ import java.io.BufferedOutputStream;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
-import org.technologyhatchery.beans.Foo;
-
 /**
  * Created by Alfred on 8/5/2014.
  */

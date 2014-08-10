@@ -2,22 +2,7 @@ package org.technologyhatchery.edgar;
 
 import com.thoughtworks.xstream.XStream;
 import org.apache.commons.io.IOUtils;
-import org.technologyhatchery.datasource.Person;
-import org.technologyhatchery.datasource.PhoneNumber;
-import org.w3c.dom.Document;
-import org.xml.sax.SAXException;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.*;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-import javax.xml.transform.stream.StreamSource;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /**

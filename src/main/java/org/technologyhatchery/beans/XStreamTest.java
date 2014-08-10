@@ -9,11 +9,9 @@ import org.apache.commons.io.IOUtils;
 import org.technologyhatchery.datasource.*;
 
 
-import javax.jms.Session;
+//import javax.jms.Session;
 import java.io.FileInputStream;
-import java.io.FileReader;
 import java.io.PrintWriter;
-import java.util.Random;
 
 public class XStreamTest {
 

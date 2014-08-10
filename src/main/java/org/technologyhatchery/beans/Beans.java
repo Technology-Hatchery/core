@@ -4,10 +4,6 @@ package org.technologyhatchery.beans;
  * Created by Alfred on 8/5/2014.
  */
 
-import java.beans.XMLEncoder;
-import java.beans.XMLDecoder;
-import java.io.*;
-
 public class Beans {
     private String foo ;
 

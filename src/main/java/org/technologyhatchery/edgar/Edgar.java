@@ -1,6 +1,5 @@
 package org.technologyhatchery.edgar;
 
-import com.sun.net.ssl.HttpsURLConnection;
 import com.thoughtworks.xstream.XStream;
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.io.IOUtils;
@@ -24,20 +23,16 @@ import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.attribute.FileAttribute;
 import java.util.ArrayList;
 
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.List;
+
 import org.technologyhatchery.utilities.*;
 /**
  * Created by Alfred on 8/6/2014.

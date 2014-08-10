@@ -17,7 +17,7 @@ Contributors:
 **********************************************************************/
 package org.technologyhatchery.items;
 
-import com.google.appengine.api.datastore.Key;
+//import com.google.appengine.api.datastore.Key;
 
 import javax.persistence.Basic;
 import javax.persistence.Entity;
