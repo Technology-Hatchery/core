@@ -7,6 +7,19 @@
     <name>Technology Hatchery Core</name>
     <url>http://www.technologyhatchery.com</url>
 
+    <licenses>
+        <license>
+            <name>General Software License</name>
+            <url>www.technologyhatchery.com/license</url>
+            <distribution>Download from website (not operational yet)</distribution>
+            <comments>Work in progress</comments>
+        </license>
+    </licenses>
+
+    <description>
+        Tools used across different projects. Stored in maven so that they can be easily shared.
+    </description>
+
     <developers>
         <developer>
             <id>pongnguy</id>
