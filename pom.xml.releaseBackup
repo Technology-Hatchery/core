@@ -3,7 +3,7 @@
     <groupId>org.technologyhatchery</groupId>
     <artifactId>technologyhatchery-core</artifactId>
     <packaging>jar</packaging>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.3-SNAPSHOT</version>
     <name>Technology Hatchery Core</name>
     <url>http://www.technologyhatchery.com</url>
 
@@ -73,7 +73,7 @@
                 <configuration>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <useReleaseProfile>false</useReleaseProfile>
-                    <!--releaseProfiles>release</releaseProfiles-->
+                    <releaseProfiles>release</releaseProfiles>
                     <goals>deploy</goals>
                 </configuration>
             </plugin>
