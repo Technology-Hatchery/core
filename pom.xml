@@ -3,7 +3,7 @@
     <groupId>org.technologyhatchery</groupId>
     <artifactId>technologyhatchery-core</artifactId>
     <packaging>jar</packaging>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.2</version>
     <name>Technology Hatchery Core</name>
     <url>http://www.technologyhatchery.com</url>
 
