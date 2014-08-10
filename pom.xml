@@ -11,7 +11,7 @@
         <!--connection>scm:svn:http://somerepository.com/svn_repo/trunk</connection-->
         <developerConnection>scm:git:https://github.com/Technology-Hatchery/core</developerConnection>
         <url>https://github.com/Technology-Hatchery/core</url>
-      <tag>initial release</tag>
+      <tag>initial_release</tag>
   </scm>
 
     <distributionManagement>
